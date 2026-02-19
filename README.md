@@ -1,0 +1,2 @@
+# Analisi-Demografica-del-Comune-di-Mantova-dal-2002-al-2024.
+Analisi demografica di Mantova dal 2002 al 2024. Il progetto esamina l'evoluzione della popolazione attraverso dati su dinamica numerica, struttura per età, mortalità, fertilità, migrazioni e previsioni. L'obiettivo è interpretare i fenomeni demografici in modo chiaro, rivolgendosi a un pubblico senza specifiche competenze in demografia. 
